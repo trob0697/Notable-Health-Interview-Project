@@ -19,18 +19,18 @@ $ npm start
 - get - api/get-all-doctors
 
 - post - api/get-appointments-by-doc-and-day
-    -   body: {
+    -   body: {  
             &emsp;"doc_id": {{doc_id}},  
             &emsp;"day":  {{day}}  
         }
 
 - delete - api//remove-appointment-by-id
-    -   body: {
+    -   body: {  
             &emsp;"app_id": {{app_id}}  
         }
         
 - post - api/add-appointment
-    -   body: {
+    -   body: {  
             &emsp;"doc_id": {{doc_id}},  
             &emsp;"day": {{day}},  
             &emsp;"first_name": {{first_name}},  

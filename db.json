@@ -1,0 +1,66 @@
+{
+    "Doctors": [
+        {
+            "id": 1,
+            "first_name": "Julius",
+            "last_name": "Hibbert"
+        }, 
+        {
+            "id": 2,
+            "first_name": "Algernop",
+            "last_name": "Kreiger"
+        },
+        {
+            "id": 3,
+            "first_name": "Nick",
+            "last_name": "Rivera"
+        }
+    ],
+    "Appointments" : [
+        {
+            "id": 1,
+            "first_name": "Sterling",
+            "last_name": "Archer",
+            "day": "05/09/2018",
+            "time": "8:00AM",
+            "kind": "New Patient",
+            "doc_id": 2
+        },
+        {
+            "id": 2,
+            "first_name": "Cyril",
+            "last_name": "Figis",
+            "day": "05/09/2018",
+            "time": "8:30AM",
+            "kind": "Follow-up",
+            "doc_id": 2
+        },
+        {
+            "id": 3,
+            "first_name": "Ray",
+            "last_name": "Gilette",
+            "day": "05/09/2018",
+            "time": "9:00AM",
+            "kind": "Follow-up",
+            "doc_id": 2
+        },
+        {
+            "id": 4,
+            "first_name": "Lana",
+            "last_name": "Kane",
+            "day": "05/09/2018",
+            "time": "9:30AM",
+            "kind": "New Patient",
+            "doc_id": 2
+        },
+        {
+            "id": 5,
+            "first_name": "Pam",
+            "last_name": "Poovey",
+            "day": "05/09/2018",
+            "time": "10:00AM",
+            "kind": "New Patient",
+            "doc_id": 2
+        }
+    ]
+}
